@@ -1,4 +1,4 @@
-,node1,node2,trail,distance,color
+id,node1,node2,trail,distance,color
 0,vl,monarch,meap,0.9,red
 1,vl,asb,rockis,0.8,blue
 2,asb,rijctn,rockis,0.3,blue
