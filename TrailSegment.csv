@@ -1,0 +1,10 @@
+,node1,node2,trail,distance,color
+0,vl,monarch,meap,0.9,red
+1,vl,asb,rockis,0.8,blue
+2,asb,rijctn,rockis,0.3,blue
+3,rijctn,glxj,laryx,0.4,green
+4,glxj,glxj,laryx,1.4,green
+5,tcj,rijctn,svdrij,0.2,yellow
+6,tcj,svd,svdrij,0.3,yellow
+7,svd,svd,svdl,0.5,purple
+8,tcj,monarch,tcml,1.4,orange
